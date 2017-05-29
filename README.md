@@ -1,9 +1,5 @@
 # Interactivos17
-Interactivos?'17 general repository for calls, project lists and other resources
-<a href="http://google.es" target="_blank">http://example.com</a>
-This is [a link](http://example.com){:target="_blank"} that opens in a new window.
-<p>This is <a href="http://example.com" target="_blank">a link</a> that opens in a new window.</p>
-  
+Interactivos?'17 general repository for calls, project lists and other resources.  
 
 
 # Descripción del proyecto
