@@ -82,4 +82,5 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 + Prisas para acabar
 
 # Licencia
-
+Los contenidos de propiedad intelectual, salvo que se indique otra cosa, se hallan licenciados bajo Creative Commons By-SA. Se puede consultar la licencia en el siguiente enlace: http://creativecommons.org/licenses/by-sa/3.0/es/
+http://medialab-prado.es/article/aviso_legal
