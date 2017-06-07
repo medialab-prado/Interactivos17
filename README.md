@@ -1,9 +1,10 @@
-# Interactivos?’17. Reimaginando el movimiento en la ciudad: ciencia ciudadana para un presente sostenible 
 [![Portada](http://medialab-prado.es/mmedia/19/19846/500_0.jpg)](http://medialab-prado.es/article/interactivos17)
+# Interactivos?’17. Reimaginando el movimiento en la ciudad: ciencia ciudadana para un presente sostenible 
 
 ## Table of contents:
-- [Convocatoria Interactivos?'17](#convocatoria-interactivos17)
-- [Repositorios de los proyectos llevados a cabo en Interactivos?'17](#repositorios-de-los-proyectos-llevados-a-cabo-en-interactivos17)
+   - [Repositorios de los proyectos llevados a cabo en Interactivos?'17](#repositorios-de-los-proyectos-llevados-a-cabo-en-interactivos17)
+   - [Convocatoria Interactivos?'17](#convocatoria-interactivos17)
+   - [Presentación y documentación sobre el taller](#presentacion-y-documentacion-sobre-el-taller)
 
 
 ## Repositorios de los proyectos llevados a cabo en Interactivos?'17
@@ -22,6 +23,7 @@
 ## Convocatoria Interactivos?'17
 * Artículo principal del taller: http://medialab-prado.es/article/interactivos17
 * Convocatorias: 
+   
     * http://medialab-prado.es/article/interactivos17---convocatoria-para-proyectos
     * http://medialab-prado.es/article/interactivos17---convocatoria-para-articulos
     * http://medialab-prado.es/article/interactivos17---convocatoria-para-colaboradores
@@ -29,16 +31,20 @@
 ## Presentación y documentación sobre el taller
 
 * Seminario: 
-    * Artículo: http://medialab-prado.es/article/interactivos17-seminario
+    
+    * Artículo: http://medialab-prado.es/article/interactivos17-seminario
     * Video 17 Mayo mañana: https://www.youtube.com/watch?v=HPVjP-jyd74&t=37s
     * Video 17 Mayo tarde: https://www.youtube.com/watch?v=R7LoHOK5IWY
     * Video 18 Mayo mañana: https://www.youtube.com/watch?v=QSP_N08unSs
     * Video 18 Mayo tarde: https://www.youtube.com/watch?v=7HbHJq_twww&t=5311s
+
 * Presentación final de proyectos: 
-    * Artículo: http://medialab-prado.es/article/interactivos17-presentacion-final-de-proyectos
+    
+    * Artículo: http://medialab-prado.es/article/interactivos17-presentacion-final-de-proyectos
     * Video: https://www.youtube.com/watch?v=eEw9mAPpYUA&feature=youtu.be
 * Fotos: 
-   * Presentación de proyectos: https://www.flickr.com/photos/medialab-prado/albums/72157681468757274
+   
+   * Presentación de proyectos: https://www.flickr.com/photos/medialab-prado/albums/72157681468757274
    * Fotos durante el taller 1 (primeros das): https://www.flickr.com/photos/medialab-prado/albums/72157681254355863
    * Fotos durante el taller 2 (últimos das): https://www.flickr.com/photos/medialab-prado/albums/72157681434594913
 
