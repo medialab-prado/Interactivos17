@@ -61,4 +61,6 @@
 * David Atauri: 
 * Marianna Papapietro:
 * Carmen Haro: 
-* Chema Blanco: [Bio](http://medialab-prado.es/person/chemablanco); Twitter: @jmblancocalvo;
+* Chema Blanco: 
+    * Resumen bio: http://medialab-prado.es/person/chemablanco
+    * Twitter: @jmblancocalvo;
