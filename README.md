@@ -4,9 +4,9 @@
 
 [![Portada](http://medialab-prado.es/mmedia/19/19846/500_0.jpg)]()
 [![Foto de equipo](https://flic.kr/p/U6kgDq)](https://flic.kr/p/U6kgDq)
-
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/medialab-prado/34190894174/in/album-72157681468757274/" title="Interactivos?17"><img src="https://c1.staticflickr.com/5/4221/34190894174_ba6927d2a3_b.jpg" width="1024" height="683" alt="Interactivos?17"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 # Convocatoria Interactivos?'17
-* http://medialab-prado.es/article/interactivos17
+* Artículo principal del taller: http://medialab-prado.es/article/interactivos17
 * Convocatorias: 
     * http://medialab-prado.es/article/interactivos17---convocatoria-para-proyectos
     * http://medialab-prado.es/article/interactivos17---convocatoria-para-articulos
@@ -24,6 +24,7 @@
    * Presentación de proyectos: https://www.flickr.com/photos/medialab-prado/albums/72157681468757274
    * Fotos durante el taller 1 (primeros das): https://www.flickr.com/photos/medialab-prado/albums/72157681254355863
    * Fotos durante el taller 2 (últimos das): https://www.flickr.com/photos/medialab-prado/albums/72157681434594913
+
 # Repositorios de los proyectos llevados a cabo en Interactivos?'17
 1 [Guateque In-Capaz](https://github.com/medialab-prado/interactivos17-guateque)
 2 [Co2mida](https://github.com/medialab-prado/interactivos17-co2mida)
