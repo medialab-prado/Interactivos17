@@ -22,6 +22,7 @@
 
 ## Convocatoria Interactivos?'17
 * Artículo principal del taller: http://medialab-prado.es/article/interactivos17
+
 * Convocatorias: 
    
     * http://medialab-prado.es/article/interactivos17---convocatoria-para-proyectos
@@ -39,12 +40,13 @@
     * Video 18 Mayo tarde: https://www.youtube.com/watch?v=7HbHJq_twww&t=5311s
 
 * Presentación final de proyectos: 
-    
+
     * Artículo: http://medialab-prado.es/article/interactivos17-presentacion-final-de-proyectos
     * Video: https://www.youtube.com/watch?v=eEw9mAPpYUA&feature=youtu.be
-* Fotos: 
-   
-   * Presentación de proyectos: https://www.flickr.com/photos/medialab-prado/albums/72157681468757274
-   * Fotos durante el taller 1 (primeros das): https://www.flickr.com/photos/medialab-prado/albums/72157681254355863
-   * Fotos durante el taller 2 (últimos das): https://www.flickr.com/photos/medialab-prado/albums/72157681434594913
+    
+* Fotos:    
+
+    * Presentación de proyectos: https://www.flickr.com/photos/medialab-prado/albums/72157681468757274
+    * Fotos durante el taller 1 (primeros das): https://www.flickr.com/photos/medialab-prado/albums/72157681254355863
+    * Fotos durante el taller 2 (últimos das): https://www.flickr.com/photos/medialab-prado/albums/72157681434594913
 
