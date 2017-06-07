@@ -5,17 +5,18 @@
 - [Convocatoria Interactivos?'17](#convocatoria-interactivos17)
 - [Repositorios de los proyectos llevados a cabo en Interactivos?'17](#repositorios-de-los-proyectos-llevados-a-cabo-en-interactivos17)
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/medialab-prado/albums/72157681468757274" title="Interactivos?17"><img src="https://c1.staticflickr.com/5/4221/34190894174_ba6927d2a3_c.jpg" width="800" height="534" alt="Interactivos?17"></a>
 
 ## Repositorios de los proyectos llevados a cabo en Interactivos?'17
-1 [Guateque In-Capaz](https://github.com/medialab-prado/interactivos17-guateque)
-2 [Co2mida](https://github.com/medialab-prado/interactivos17-co2mida)
-3 [Datastrofe](https://github.com/medialab-prado/interactivos17-datastrofe)
-4 [C.O.S.O.](https://github.com/medialab-prado/interactivos17-coso)
-5 [Relatos en la espera](https://github.com/medialab-prado/interactivos17-relatosenlaespera)
-6 [PirateCycle](https://github.com/medialab-prado/interactivos17-piratecycle)
-7 [Multimodal](https://github.com/medialab-prado/interactivos17-multimodal)
-8 [Viajes del agua](https://github.com/medialab-prado/interactivos17-viajesdeagua)
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/medialab-prado/albums/72157681468757274" title="Interactivos?17"><img src="https://c1.staticflickr.com/5/4221/34190894174_ba6927d2a3_c.jpg" width="800" height="534" alt="Interactivos?17"></a>
+
+1. [Guateque In-Capaz](https://github.com/medialab-prado/interactivos17-guateque)
+2. [Co2mida](https://github.com/medialab-prado/interactivos17-co2mida)
+3. [Datastrofe](https://github.com/medialab-prado/interactivos17-datastrofe)
+4. [C.O.S.O.](https://github.com/medialab-prado/interactivos17-coso)
+5. [Relatos en la espera](https://github.com/medialab-prado/interactivos17-relatosenlaespera)
+6. [PirateCycle](https://github.com/medialab-prado/interactivos17-piratecycle)
+7. [Multimodal](https://github.com/medialab-prado/interactivos17-multimodal)
+8. [Viajes del agua](https://github.com/medialab-prado/interactivos17-viajesdeagua)
 
 
 ## Convocatoria Interactivos?'17
@@ -26,6 +27,7 @@
     * http://medialab-prado.es/article/interactivos17---convocatoria-para-colaboradores
     
 ## Presentación y documentación sobre el taller
+
 * Seminario: 
     * Artículo: http://medialab-prado.es/article/interactivos17-seminario
     * Video 17 Mayo mañana: https://www.youtube.com/watch?v=HPVjP-jyd74&t=37s
