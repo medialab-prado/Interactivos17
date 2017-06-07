@@ -5,6 +5,7 @@
    - [Repositorios de los proyectos llevados a cabo en Interactivos?'17](#repositorios-de-los-proyectos-llevados-a-cabo-en-interactivos17)
    - [Convocatoria Interactivos?'17](#convocatoria-interactivos17)
    - [Presentación y documentación sobre el taller](#presentacion-y-documentacion-sobre-el-taller)
+   - [Equipo organizador](#equipo-organizador)
 
 
 ## Repositorios de los proyectos llevados a cabo en Interactivos?'17
@@ -51,3 +52,13 @@
     * Fotos (primeros das): https://www.flickr.com/photos/medialab-prado/albums/72157681254355863
     * Fotos (últimos das): https://www.flickr.com/photos/medialab-prado/albums/72157681434594913
 
+## Equipo organizador: 
+* Laura Fernández
+* Sonia Díez: 
+* María Limòn: 
+* Belén Soto: 
+* Carles Gutiérrez: 
+* David Atauri: 
+* Marianna Papapietro:
+* Carmen Haro: 
+* Chema Blanco: [Bio](http://medialab-prado.es/person/chemablanco); Twitter: @jmblancocalvo;
