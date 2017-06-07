@@ -63,4 +63,4 @@
 * Carmen Haro: 
 * Chema Blanco: 
     * Resumen bio: http://medialab-prado.es/person/chemablanco
-    * Twitter: @jmblancocalvo;
+    * Twitter: [@jmblancocalvo](https://twitter.com/jmblancocalvo)
