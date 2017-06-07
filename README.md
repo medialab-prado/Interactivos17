@@ -24,12 +24,11 @@
 * Artículo principal del taller: http://medialab-prado.es/article/interactivos17
 
 * Convocatorias: 
-   
     * http://medialab-prado.es/article/interactivos17---convocatoria-para-proyectos
     * http://medialab-prado.es/article/interactivos17---convocatoria-para-articulos
     * http://medialab-prado.es/article/interactivos17---convocatoria-para-colaboradores
     
-## Presentación y documentación sobre el taller
+## Videos y fotos del seminario y del taller:
 
 * Seminario: 
     
@@ -47,6 +46,6 @@
 * Fotos:    
 
     * Presentación de proyectos: https://www.flickr.com/photos/medialab-prado/albums/72157681468757274
-    * Fotos durante el taller 1 (primeros das): https://www.flickr.com/photos/medialab-prado/albums/72157681254355863
-    * Fotos durante el taller 2 (últimos das): https://www.flickr.com/photos/medialab-prado/albums/72157681434594913
+    * Fotos (primeros das): https://www.flickr.com/photos/medialab-prado/albums/72157681254355863
+    * Fotos (últimos das): https://www.flickr.com/photos/medialab-prado/albums/72157681434594913
 
