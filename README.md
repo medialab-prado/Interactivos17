@@ -9,7 +9,8 @@
 
 ## Repositorios de los proyectos llevados a cabo en Interactivos?'17
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/medialab-prado/albums/72157681468757274" title="Interactivos?17"><img src="https://c1.staticflickr.com/5/4221/34190894174_ba6927d2a3_c.jpg" width="800" height="534" alt="Interactivos?17"></a>
-[Resumen de los proyectos seleccionados](http://medialab-prado.es/article/-interactivos17-reimaginando-el-movimiento-en-la-ciudad-ciencia-ciudadana-para-un-presente-sostenible-proyectos-seleccionados)
+
+**[Resumen de los proyectos seleccionados](http://medialab-prado.es/article/-interactivos17-reimaginando-el-movimiento-en-la-ciudad-ciencia-ciudadana-para-un-presente-sostenible-proyectos-seleccionados)**
 
 1. [Guateque in-Capaz](https://github.com/medialab-prado/interactivos17-guateque)
 2. [Co2mida](https://github.com/medialab-prado/interactivos17-co2mida)
