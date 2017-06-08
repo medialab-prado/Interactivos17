@@ -57,6 +57,8 @@
 * Sonia Díez: 
 * María Limòn: 
 * Belén Soto: 
+    * Resumen bio: http://medialab-prado.es/person/belen-soto
+    * Web: http://belensoto.com
 * Carles Gutiérrez: 
 * David Atauri: 
 * Marianna Papapietro:
